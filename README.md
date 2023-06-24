@@ -19,6 +19,7 @@ This project aims to leverage historical stock price data and develop predictive
 4. The project output includes predicted stock price values, confidence intervals, or trend direction for individual Nifty 50 stocks. The predictions can be visualized through charts, graphs, or interactive dashboards to provide users with a clear understanding of the projected price movements.
 5. Perform exploratory data analysis to understand the characteristics and distributions of the data. This involves generating summary statistics, visualizing the data through histograms, line plots, scatter plots, or correlation matrices, and identifying any interesting patterns, seasonality, or relationships between variables. EDA helps in uncovering initial insights and guiding further analysis.
 6. Utilize data visualization techniques to present the findings and insights from the analysis. This includes creating interactive charts, time series plots, heatmaps, or correlation matrices to effectively communicate the relationships and patterns discovered. Visualizations help stakeholders understand the data intuitively and aid in decision-making.
+
 --Result--
 
 ![Screenshot (731)](https://github.com/patel-ankit1999/Nifty-50-Stock-Price/assets/125917403/eedc97d0-c502-4d81-8d5a-9cb8de2917aa)
