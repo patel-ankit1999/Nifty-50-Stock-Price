@@ -4,7 +4,12 @@
 
 --Problem aimed to solve--
 
-This project aims to leverage historical stock price data and develop predictive models that can forecast the future prices of the Nifty 50 stocks. By analyzing past trends, patterns, and relevant market indicators, the project aims to provide insights into potential price movements and assist investors in making informed decisions.
+This project aims to leverage historical stock price data and develop predictive models that can forecast the future prices of the Nifty 50 stocks. By analyzing past trends, patterns, and relevant market indicators, the project aims to provide insights into potential price movements and assist investors in making informed decisions. Therefore, the objective of this project is to develop a machine-learning model that can predict the future prices of Nifty stocks. The model will be trained on historical data of the Nifty stocks.
+
+--Methodology--
+
+![Screenshot (734)](https://github.com/patel-ankit1999/Nifty-50-Stock-Price/assets/125917403/9727e95b-c253-4a5a-8be0-782a55cf19db)
+
 
 --Data Description--
 
