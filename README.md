@@ -1,3 +1,6 @@
+                                          --Nifty-50-Stock-Price--
+                                          
+
 --Introduction--
 
 "Nifty-50-Stock-Price Prediction" is a project focused on predicting the future stock prices of companies listed in the Nifty 50 index. The Nifty 50 is a benchmark index in the Indian stock market that represents the performance of the top 50 companies across various sectors.
